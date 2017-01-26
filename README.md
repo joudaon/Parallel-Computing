@@ -1,8 +1,8 @@
 # Parallel-Computing
 
- - [01. Hash Creator](#01.-hash-cretor)
+ - [01. Hash generator](#01.-hash-generator)
 
-## Hash creator
+## 01. Hash generator
 
 * First of all this package needs to be installed (if not installed yet):
 ```sh
